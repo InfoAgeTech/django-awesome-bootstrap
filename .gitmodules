@@ -1,3 +1,6 @@
 [submodule "font_awesome/static/font_awesome"]
 	path = font_awesome/static/font_awesome
 	url = git@github.com:FortAwesome/Font-Awesome.git
+[submodule "twitter_bootstrap/static/twitter_bootstrap"]
+	path = twitter_bootstrap/static/twitter_bootstrap
+	url = git@github.com:twbs/bootstrap.git
