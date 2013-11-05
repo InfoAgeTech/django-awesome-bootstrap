@@ -1,0 +1,6 @@
+.project
+.pydevproject
+.DS_Store
+*.pyc
+.settings/
+/collected_static
