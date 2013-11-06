@@ -1,0 +1,11 @@
+include LICENSE
+include *.rst
+include setup.py
+include awesome_bootstrap/*.py
+recursive-include awesome_bootstrap/static/twitter_bootstrap/dist *
+include awesome_bootstrap/static/twitter_bootstrap/fonts/*
+include awesome_bootstrap/static/twitter_bootstrap/js/*.js
+include awesome_bootstrap/static/twitter_bootstrap/less/*.less
+include awesome_bootstrap/static/font_awesome/css/*.css
+include awesome_bootstrap/static/font_awesome/fonts/*
+include awesome_bootstrap/static/font_awesome/less/*.less
