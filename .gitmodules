@@ -1,6 +1,6 @@
-[submodule "django_awesome_bootstrap/static/twitter_bootstrap"]
-	path = django_awesome_bootstrap/static/twitter_bootstrap
+[submodule "awesome_bootstrap/static/twitter_bootstrap"]
+	path = awesome_bootstrap/static/twitter_bootstrap
 	url = git@github.com:twbs/bootstrap.git
-[submodule "django_awesome_bootstrap/static/font_awesome"]
-	path = django_awesome_bootstrap/static/font_awesome
+[submodule "awesome_bootstrap/static/font_awesome"]
+	path = awesome_bootstrap/static/font_awesome
 	url = git@github.com:FortAwesome/Font-Awesome.git
