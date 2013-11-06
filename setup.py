@@ -8,7 +8,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-awesome-bootstrap',
-    version='0.1',
+    version='0.1.1',
     packages=['awesome_bootstrap'],
     include_package_data=True,
     license='MIT License',
