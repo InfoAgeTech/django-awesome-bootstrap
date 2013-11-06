@@ -18,7 +18,7 @@ Configuration
 =============
 Install the app::
 
-    # TODO: add to pypi
+    pip install django-awesome-bootstrap
 
 Add the app to your installed apps::
 
