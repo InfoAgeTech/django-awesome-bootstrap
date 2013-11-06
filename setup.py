@@ -16,7 +16,7 @@ setup(
     long_description=README,
     url='https://github.com/InfoAgeTech/django-awesome-bootstrap',
     author='Troy Grosfield',
-    author_email='troy.grosfield@gmail.com',
+    maintainer='Troy Grosfield',
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
