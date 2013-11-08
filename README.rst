@@ -69,8 +69,8 @@ Or you can use individual components from each projects::
    }
 
 
-Version ranges matching bootstrap versions
-==========================================
+Versioning
+==========
 
 django-awesome-bootstrap will follow a similar version control setup to django-twitter-bootstrap. Versions of this package should match versions of Bootstrap, where available and will take the latest releases to font-awesome with those updates. This presents something of a problem if and when we need to make updates to the packaging here. We can't just upgrade any of the three common components of semantic versioning, because those map to versions of Bootstrap. So, we'll use revisions when needed.
 
