@@ -10,7 +10,7 @@ This is different from `django-twitter-bootstrap <https://github.com/estebistec/
 #. This also includes `font-awesome <http://fontawesome.io/>`_
 #. The folder structure is setup differently to avoid file naming collisions with static content from different projects
 
-Steven, the owner of the project, did a great job with the documentation for that project.  So much of what you will find below will be similar to, or the same as, what you will find in his project (thanks Steven :)). 
+Steven, the owner of the project, did a great job with the documentation for that project.  So much of what you will find below will be similar to, or the same as, what you will find in his project (thanks Steven :)).
 
 Configuration
 =============
