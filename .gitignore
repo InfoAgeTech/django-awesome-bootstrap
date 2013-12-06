@@ -5,3 +5,4 @@
 .settings/
 /collected_static
 /django_awesome_bootstrap.egg-info
+/dist
