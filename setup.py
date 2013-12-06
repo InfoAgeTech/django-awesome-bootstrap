@@ -22,7 +22,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-awesome-bootstrap',
-    version='3.0.3',
+    version='3.0.2',
     packages=['awesome_bootstrap'],
     include_package_data=True,
     license='MIT License',
