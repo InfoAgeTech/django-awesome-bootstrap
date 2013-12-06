@@ -68,6 +68,20 @@ Or you can use individual components from each projects::
       }
    }
 
+Contributing/Updating Submodules
+================================
+
+Steps to update to the latest version of twitter bootstrap and font awesome submodules (this assumes you're already in the project root)::
+
+    $ cd /awesome_bootstrap/static/twitter_bootstrap
+    $ git pull origin
+    $ git checkout v3.0.3
+    
+    $ cd ../font_awesome
+    $ git pull origin
+    $ git checkout v4.0.3
+   
+Then commit the changes, submit the pull request and you're done!
 
 Versioning
 ==========
