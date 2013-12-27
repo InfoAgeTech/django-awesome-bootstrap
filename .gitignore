@@ -2,7 +2,8 @@
 .pydevproject
 .DS_Store
 *.pyc
-.settings/
+.settings
+.idea
 /collected_static
 /django_awesome_bootstrap.egg-info
 /dist
