@@ -1,3 +1,6 @@
+.. image:: https://badge.fury.io/py/django-awesome-bootstrap.png
+  :target: http://badge.fury.io/py/django-awesome-bootstrap
+
 django-awesome-bootstrap
 ========================
 Twitter Bootstrap + Font Awesome for Django.
