@@ -1,7 +1,9 @@
 .. image:: https://badge.fury.io/py/django-awesome-bootstrap.png
-  :target: http://badge.fury.io/py/django-awesome-bootstrap
+    :target: http://badge.fury.io/py/django-awesome-bootstrap
 .. image:: https://pypip.in/d/django-awesome-bootstrap/badge.png
-  :https://crate.io/packages/django-awesome-bootstrap
+    :https://crate.io/packages/django-awesome-bootstrap
+.. image:: https://pypip.in/license/django-awesome-bootstrap/badge.png
+    :target: https://pypi.python.org/pypi/django-awesome-bootstrap/
 
 django-awesome-bootstrap
 ========================
