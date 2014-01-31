@@ -5,7 +5,7 @@
 .. |license| image:: https://pypip.in/license/django-awesome-bootstrap/badge.png
     :target: https://pypi.python.org/pypi/django-awesome-bootstrap/
 
-|versions| |downloads| |license|
+|version| |downloads| |license|
 
 django-awesome-bootstrap
 ========================
