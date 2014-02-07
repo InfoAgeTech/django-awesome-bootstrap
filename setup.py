@@ -30,7 +30,7 @@ setup(
     license='MIT License',
     description='A Django app for including twitter bootstrap and font awesome.',
     long_description=README,
-    url='https://github.com/InfoAgeTech/django-awesome-bootstrap',
+    url='https://github.com/infoagetech/django-awesome-bootstrap',
     download_url='https://pypi.python.org/pypi/django-awesome-bootstrap',
     author='Troy Grosfield',
     maintainer='Troy Grosfield',
