@@ -80,7 +80,7 @@ Or you can use individual components from each projects::
 Contributing/Updating Submodules
 ================================
 
-Steps to update to the latest version of twitter bootstrap and font awesome submodules (this assumes you're already in the project root)::
+Steps to update to the latest version of twitter bootstrap and font awesome submodules (this assumes you're already in the project root):
 
 1. Create a branch from master
 
