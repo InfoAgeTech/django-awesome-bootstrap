@@ -88,7 +88,7 @@ Steps to update to the latest version of twitter bootstrap and font awesome subm
 
     $ cd awesome_bootstrap/static/twitter_bootstrap
     $ git pull origin
-    $ git checkout v3.1.0
+    $ git checkout v3.1.1
     
     $ cd ../font_awesome
     $ git pull origin
