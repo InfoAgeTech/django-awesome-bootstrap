@@ -83,6 +83,7 @@ Contributing/Updating Submodules
 Steps to update to the latest version of twitter bootstrap and font awesome submodules (this assumes you're already in the project root)::
 
 1. Create a branch from master
+
 2. Update the submodules::
 
     $ cd awesome_bootstrap/static/twitter_bootstrap
@@ -94,6 +95,7 @@ Steps to update to the latest version of twitter bootstrap and font awesome subm
     $ git checkout v4.0.3
 
 3. Update the version is the setup.py to coincide with twitter bootstrap's version
+
 4. Update the version in this readme to same version at step #3
 
 Then commit the changes, submit the pull request and you're done!
