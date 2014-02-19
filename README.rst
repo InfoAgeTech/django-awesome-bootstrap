@@ -11,7 +11,7 @@ django-awesome-bootstrap
 ========================
 Twitter Bootstrap + Font Awesome for Django.
 
-* Twitter Bootstrap 3.1.0: https://github.com/twbs/bootstrap
+* Twitter Bootstrap 3.1.1: https://github.com/twbs/bootstrap
 * Font Awesome 4.0.3: https://github.com/FortAwesome/Font-Awesome
 
 This is different from `django-twitter-bootstrap <https://github.com/estebistec/django-twitter-bootstrap>`_ in a few ways:
