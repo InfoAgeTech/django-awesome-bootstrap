@@ -11,8 +11,8 @@ django-awesome-bootstrap
 ========================
 Twitter Bootstrap + Font Awesome for Django.
 
-* Twitter Bootstrap 3.1.1: https://github.com/twbs/bootstrap
-* Font Awesome 4.0.3: https://github.com/FortAwesome/Font-Awesome
+* Twitter Bootstrap 3.2.0: https://github.com/twbs/bootstrap
+* Font Awesome 4.1.0: https://github.com/FortAwesome/Font-Awesome
 
 This is different from `django-twitter-bootstrap <https://github.com/estebistec/django-twitter-bootstrap>`_ in a few ways:
 
@@ -88,11 +88,11 @@ Steps to update to the latest version of twitter bootstrap and font awesome subm
 
     $ cd awesome_bootstrap/static/twitter_bootstrap
     $ git pull origin
-    $ git checkout v3.1.1
+    $ git checkout v3.2.0
     
     $ cd ../font_awesome
     $ git pull origin
-    $ git checkout v4.0.3
+    $ git checkout v4.1.0
 
 3. Update the version is the setup.py to coincide with twitter bootstrap's version
 
