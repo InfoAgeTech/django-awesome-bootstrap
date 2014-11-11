@@ -1,3 +1,5 @@
+**NOTE**: There are better ways to manage static assets for your django projects.  I recommend using a package manager such as `bower <http://bower.io/>`_.  If someone wants to take ownership of this repo reach out to me and I'll gladly transfer ownership.  Otherwise, this repo will no longer be updated.
+
 .. |version| image:: https://badge.fury.io/py/django-awesome-bootstrap.png
     :target: http://badge.fury.io/py/django-awesome-bootstrap
 .. |downloads| image:: https://pypip.in/d/django-awesome-bootstrap/badge.png
